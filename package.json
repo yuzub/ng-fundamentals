@@ -7,9 +7,10 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/web-server.js"
   },
-  "author": "Joe Eames & Jim Cooper",
+  "author": "yuzub",
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.13.1",
